@@ -1,0 +1,38 @@
+body{
+    height: 100vh;
+    background-image: url(https://img.freepik.com/free-vector/flat-design-abstract-background_23-2149103999.jpg?w=826&t=st=1669977905~exp=1669978505~hmac=8fab48ab108dc32028319b1b112e95f70f13f48cea629ebb2a7bad2d64f55e4a);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.berhasil-login {
+    position: absolute;
+    left: 38.6%;
+    top: 22%;
+    text-align: center;
+    width: 247px;
+    padding: 8px 54.8px;
+    border: none;
+    background-color: rgba(0,0,0,.7);
+    box-shadow: 0 0 10px rgba(255,255,255,.3);
+    color: rgb(251, 255, 0);
+    font-size: 20px;
+}
+
+.body{
+    position: absolute;
+    left: 49.85%;
+    top: 40%;
+    transform: translate(-50%,-50%);
+    padding: 20px 25px;
+    width: 306px;
+    color: white;
+    background-color: rgba(0,0,0,.7);
+    box-shadow: 0 0 10px rgba(255,255,255,.3);
+}
+
+.body a {
+    color: rgb(255, 251, 0);
+    
+}
